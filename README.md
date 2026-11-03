@@ -1,16 +1,19 @@
-## Hi there 👋
+# fraytrace_
 
-<!--
-**fraytrace/fraytrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`fraytrace@localhost:~$ whoami`
 
-Here are some ideas to get you started:
+**Aspiring Security Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity student. Learning how systems work and how to defend them.
+
+```bash
+$ cat focus.txt
+Linux | Networking | Infrastructure Security
+
+$ status
+[+] Building skills, one commit at a time.
+```
+
+---
+
+> Understand the system. Secure the system.
