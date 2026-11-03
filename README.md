@@ -1,5 +1,6 @@
 # fraytrace_
 
+```bash
 `fraytrace@localhost:~$ whoami`
 
 **Aspiring Security Engineer**
