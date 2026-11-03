@@ -6,7 +6,7 @@
 **Aspiring Security Engineer**
 
 Cybersecurity student. Learning how systems work and how to defend them.
-
+```
 ```bash
 $ cat focus.txt
 Linux | Networking | Infrastructure Security
